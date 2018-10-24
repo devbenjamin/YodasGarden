@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+}
+
+.container {
+  width: 1440px;
+}
+/* .wrapper {
+  text-align: center;
+} */
+
+.ul-wrapper {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.plant-div {
+  width: 400px;
+  height: 150px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}
